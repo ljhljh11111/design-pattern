@@ -23,6 +23,7 @@
     </developers>
     <modules>
         <module>FactoryPattern</module>
+        <module>SingletonPattern</module>
     </modules>
     <scm>
         <connection/>
