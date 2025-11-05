@@ -27,6 +27,8 @@
         <module>AbstractFactoryPattern</module>
         <module>StrategyPattern</module>
         <module>TemplateMethodPattern</module>
+        <module>BuilderPattern</module>
+        <module>PrototypePattern</module>
     </modules>
     <scm>
         <connection/>
