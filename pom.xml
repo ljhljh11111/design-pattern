@@ -32,6 +32,8 @@
         <module>AdapterPattern</module>
         <module>FacadePattern</module>
         <module>ProxyPattern</module>
+        <module>ChainOfResponsibilityPattern</module>
+        <module>VisitorPattern</module>
     </modules>
     <scm>
         <connection/>
